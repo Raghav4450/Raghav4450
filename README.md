@@ -1,3 +1,19 @@
+## 👋 Hi, I'm Raghav Gupta
+
+A passionate *Data Analytics* from India 🇮🇳  
+I enjoy turning raw data into meaningful business insights 📊
+
+📫 *Email me:* spnraghav007@gmail.com (for collaboration / projects)
+
+- 🔭 I’m currently working on: *End-to-End Car Sales Analysis Project*
+- 🌱 I’m currently learning: *Advanced SQL & Power BI*
+- 🧠 I work with: *Excel | SQL | Power BI*
+- 🧹 Experienced in: *Data Cleaning & Feature Engineering*
+- 📊 I build: *Interactive Dashboards & Business Reports*
+- 🤝 Ask me about: *Data Analysis, SQL Queries, Power BI*
+- 🎯 Career Goal: *Data Analyst*
+- ⚡ Fun fact: I love finding insights hidden in data 😄
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Raghav Gupta) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/RAGHAV GUPTA) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:spnraghav007@gmail.com) 
 

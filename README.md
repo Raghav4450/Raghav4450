@@ -3,75 +3,31 @@
 
 ---
 
-## 🚀 About Me
+## 🛠 Skills
+- Excel  
+- SQL  
+- Power BI  
+- Python (Numpy, Pandas, Matplotlib)  
+- Data Cleaning & Visualization  
 
-- 🎯 Aspiring Data Analyst from India  
-- 📊 Passionate about transforming raw data into actionable insights  
-- 📈 Skilled in building dashboards & business reports  
-- 🧠 Strong understanding of Data Cleaning & Feature Engineering  
-- 💡 Love discovering hidden patterns in data  
-
----
-
-## 🛠 Technical Skills
-
-### 📊 Data Analysis & Visualization
-- Excel (Advanced Formulas, Pivot Tables)
-- Power BI (Dashboards, DAX Basics)
-- Python (Pandas, NumPy, Matplotlib)
-
-### 🗄 Database
-- SQL (Joins, Aggregations, Subqueries)
-
-### 🧹 Data Processing
-- Data Cleaning
-- Data Transformation
-- Feature Engineering
-
----
-
-## 📌 Featured Projects
-
-### 📈 Stock Market Performance Analysis
-- Analyzed historical stock data to identify trends & volatility  
-- Calculated daily returns & moving averages  
-- Visualized stock performance using Python  
-
-### 🛒 E-Commerce Sales Analysis
-- Performed revenue & profit analysis  
-- Identified top-performing products & peak sales months  
-- Generated business insights for decision-making  
-
-### 🚗 End-to-End Car Sales Analysis
-- Cleaned and transformed raw sales dataset  
-- Built interactive dashboard in Power BI  
-- Analyzed region-wise & model-wise performance  
-
----
+## 📌 Projects
+- 📈 Stock Market Performance Analysis  
+- 🛒 E-Commerce Sales Analysis  
+- 🚗 End-to-End Car Sales Analysis  
 
 ## 🌱 Currently Learning
 - Advanced SQL  
 - Power BI DAX  
-- Business Analytics Concepts  
-
----
-
-## 🎯 Career Goal
-To become a professional Data Analyst and help organizations make data-driven decisions.
 
 ---
 
 ## 📫 Connect With Me
 
-📧 Email: spnraghav007@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/raghav-gupta-735247392 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Raghav Gupta) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/RAGHAV GUPTA) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](spnraghav007@gmail.com)
 
 ---
 
 ⭐ If you like my projects, feel free to explore and connect!
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Raghav Gupta) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/RAGHAV GUPTA) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:spnraghav007@gmail.com) 
 
 <!-- Snake Game Repo View -->
 

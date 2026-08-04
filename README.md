@@ -21,9 +21,10 @@
 
 ---
 
-## 📫 Connect With Me
-
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Raghav Gupta) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/RAGHAV GUPTA) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)]spnraghav007@gmail.com
+## 💡 Fun Fact
+- 💻 I enjoy solving real-world data problems.
+- 📊 I love creating interactive Power BI dashboards.
+- 🚀 Always learning new technologies.
 
 ---
 

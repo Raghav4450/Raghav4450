@@ -19,14 +19,10 @@
 - Advanced SQL  
 - Power BI DAX  
 
----
-
 ## 💡 Fun Fact
 - 💻 I enjoy solving real-world data problems.
 - 📊 I love creating interactive Power BI dashboards.
 - 🚀 Always learning new technologies.
-
----
 
 ⭐ If you like my projects, feel free to explore and connect!
 
